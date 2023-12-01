@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Wentuz
 - 👀 I’m interested in Minecraft, WH40k and D&D
-- 🌱 I’m currently learning Java and German
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning PyThOn, C and German
+- 💞️ Currently studying informatics
 - 📫 How to reach me :
-        -Discord : Goshi#2608
+        -Discord : wentuziak
 
 <!---
 Wentuz/Wentuz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
