@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wentuz
 - 🦔 I’m interested in Minecraft, WH40k, D&D and programming
-- 💀 I’m currently learning PyThOn, Django and German
+- 💀 I’m currently learning PyThOn, GameDev and German
 - 🍄 Currently questioning my life decisions
 - 📫 How to reach me :
         -> Discord : wentuziak
