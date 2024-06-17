@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Wentuz
 - 🦔 I’m interested in Minecraft, WH40k, D&D and programming
-- 💀 I’m currently learning PyThOn, GameDev and German
-- 🍄 Currently questioning my life decisions
+- 💀 I’m currently learning PyThOn, Java
+- 🍄 Creating minor discord bot called Mikoś
+- ⛏️ Creator of SZOP datapack and SZOPlugin
 - 📫 How to reach me :
         -> Discord : wentuziak
 
