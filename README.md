@@ -15,7 +15,7 @@ As a hobby I write plugins for Minecraft servers in Java and host one myself ❤
 📫 How to reach me :
 
 -> Discord : wentuziak
--> <a href="www.linkedin.com/in/wentuziak">LinkedIn</a>
+-> <a href="https://www.linkedin.com/in/wentuziak">LinkedIn</a>
 
 
 <!---
