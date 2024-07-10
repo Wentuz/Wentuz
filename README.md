@@ -1,5 +1,5 @@
 Hey ! 
-The name's Tomasz Urbański. Tom for short. 
+The name's Tomasz Urbański. Tom for short, but call me Wentuz. 
 I am interested in anything that is scaleable, secure and maintainable.
 
 Currently focused on :
