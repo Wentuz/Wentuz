@@ -13,8 +13,9 @@ I had a little bit of a freelance web dev episode in my past.
 As a hobby I write plugins for Minecraft servers in Java and host one myself ❤️
 
 📫 How to reach me :
-        -> Discord : wentuziak
-        -> LinkedIn : www.linkedin.com/in/wentuziak
+
+-> Discord : wentuziak
+-> <a href="www.linkedin.com/in/wentuziak">LinkedIn</a>
 
 
 <!---
